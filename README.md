@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasir khan</h1>
 <h3 align="center">A Software Engineer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-khan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-khan-dev" /> </p>
+
 - 🔭 I’m currently studying [BS Software Engineering](Lahore leads university)
 
 - 🌱 React, Node.js, PHP, MySQL & Modern Web Development **React • Node.js • Bootstrap • PHP**
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasir-khan-dev&show_icons=true&locale=en&layout=compact" alt="yasir-khan-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasir-khan-dev&show_icons=true&locale=en" alt="yasir-khan-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasir-khan-dev&" alt="yasir-khan-dev" /></p>
